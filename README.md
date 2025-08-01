@@ -2,7 +2,7 @@
 - 🚀 Estou buscando sempre aprender um pouco de tudo
 - 🌱 No momento estou me aprofundando mais sobre o Javascript
 - 💞️ Adoro desafios e colaborar com algo que vá fazer diferença na vida de alguém
-- 📫 Para entrar em contato comigo, @thassyla.victoria@gmail.com
+- 📫 Para entrar em contato comigo, @tsdesigner029@gmail.com
 
 
 <h2 align="left">🤍 Oiii, meu nome é Thassyla e sou estudante de Engenharia de Software.<br>Estou buscando novos conhecimentos e novos desafios! 🚀</h2>
